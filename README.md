@@ -4,7 +4,7 @@
 
 #### Breve descrição sobre min:
 
-Sou o Alex, tenho 19 anos e atualmente estou cursando Engenharia de Software, venho trabalhando no meio de DevOps a um tempo, com as tecnologias de Kubernetes, OpenShift, Docker, Argo CD, Tekton, Terraform entre outras. Estou em constante busca por conhecimento e desafios emocionantes no mundo da tecnologia.
+Sou o Alex, tenho 21 anos e atualmente estou cursando Engenharia de Software, venho trabalhando no meio de DevOps a um tempo, com as tecnologias de Kubernetes, OpenShift, Docker, Argo CD, Tekton, Terraform entre outras. Estou em constante busca por conhecimento e desafios emocionantes no mundo da tecnologia.
 
 
 
